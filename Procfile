@@ -1,1 +1,1 @@
-web: cd frontend/themusic && icacls .\node_modules\.bin\react-scripts /grant Everyone:RX && npm start
+web: cd frontend/themusic && npm start
