@@ -1,1 +1,1 @@
-web: cd frontend/themusic && npm start
+web: cd frontend && npm start
